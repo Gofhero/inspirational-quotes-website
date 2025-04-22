@@ -1,0 +1,21 @@
+{
+  "name": "inspirational-quotes-website",
+  "version": "1.0.0",
+  "description": "A simple personal website that generates inspirational quotes upon user interaction.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server public",
+    "build": "echo 'Build step not defined yet.'"
+  },
+  "keywords": [
+    "inspirational",
+    "quotes",
+    "website",
+    "personal"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
